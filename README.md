@@ -1,2 +1,5 @@
 # MachineLearning-CAP5610
-This file contains the HW and quiz submission
+This repository contains the Codes for hw and quiz of ML class cap5610
+
+Taught by Dr. Yan Ji FU
+@University of Central Florida
